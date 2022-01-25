@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+  background: var(--colorMain);
+
+  @media (--only-medium-screen) {
+    grid-column: 1 / span 1;
+  }
+}
+
+.header__titles {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.header__img {
+  margin-right: var(--spacerRegular);
+}

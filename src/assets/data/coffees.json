@@ -1,0 +1,95 @@
+{
+  "coffees": [
+    {
+      "name": "Oat Latte",
+      "plantbased": true,
+      "description": "Latte coffee with oat plant milk.",
+      "prices": {
+        "small": 2.5,
+        "medium": 3.5,
+        "large": 4.5,
+        "extra_large": 5.5
+      }
+    },
+    {
+      "name": "Soy Latte",
+      "plantbased": true,
+      "description": "Latte coffee with soy plant milk.",
+      "prices": {
+        "small": 1.5,
+        "medium": 2,
+        "large": 3.5,
+        "extra_large": 4.5
+      }
+    },
+    {
+      "name": "Rice Latte",
+      "plantbased": true,
+      "description": "Latte coffee with rice plant milk.",
+      "prices": {
+        "small": 2.5,
+        "medium": 3.5,
+        "large": 4.5,
+        "extra_large": 5.5
+      }
+    },
+    {
+      "name": "Koko Latte",
+      "plantbased": true,
+      "description": "Latte coffee with coconut milk.",
+      "prices": {
+        "small": 1.5,
+        "medium": 2,
+        "large": 3.5,
+        "extra_large": 4.5
+      }
+    },
+    {
+      "name": "Almond Latte",
+      "plantbased": true,
+      "description": "Latte coffee with almond milk.",
+      "prices": {
+        "small": 2.5,
+        "medium": 3.5,
+        "large": 4.5,
+        "extra_large": 5.5
+      }
+    },
+    {
+      "name": "Pumpkin Spice Latte",
+      "plantbased": false,
+      "description": "Our signature espresso and milk are highlighted by flavor notes of pumpkin, cinnamon, nutmeg and clove to create this incredible beverage that's a fall favorite. Enjoy it topped with whipped cream and real pumpkin pie spices.",
+      "shop": "Starbucks",
+      "prices": {
+        "small": 4.25,
+        "medium": 4.95,
+        "large": 5.95,
+        "extra_large": null
+      }
+    },
+    {
+      "name": "Salted Caramel Mocha",
+      "plantbased": false,
+      "description": "Our signature espresso and milk are highlighted by flavor notes of pumpkin, cinnamon, nutmeg and clove to create this incredible beverage that's a fall favorite. Enjoy it topped with whipped cream and real pumpkin pie spices.",
+      "shop": "Starbucks",
+      "prices": {
+        "small": 4.25,
+        "medium": 4.95,
+        "large": 5.95,
+        "extra_large": null
+      }
+    },
+    {
+      "name": "Toasted Graham Latte ",
+      "plantbased": false,
+      "description": "Graham and sweet cream meet steamed milk and our signature espresso, then are finished off with a sprinkling of cinnamon graham crumbles for a less sweet perfect treat.",
+      "shop": "Starbucks",
+      "prices": {
+        "small": 4.25,
+        "medium": 4.95,
+        "large": 5.95,
+        "extra_large": null
+      }
+    }
+  ]
+}

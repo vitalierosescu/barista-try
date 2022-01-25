@@ -1,0 +1,20 @@
+@import './css/normalize.css';
+@import './css/vars.css';
+@import './css/typography.css';
+@import './css/layout.css';
+
+/* components */
+
+@import './css/components/header.css';
+@import './css/components/prices.css';
+@import './css/components/orders.css';
+
+button, input[type='submit'], input[type='reset'] {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}

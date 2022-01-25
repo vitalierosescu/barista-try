@@ -1,0 +1,35 @@
+body,
+p,
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font);
+  font-size: var(--fontNormal);
+  font-weight: var(--fontWeightRegular);
+  margin: 0;
+
+  @media (--only-medium-screen) {
+    font-size: var(--fontMedium);
+  }
+}
+
+.title {
+  font-family: var(--font);
+  font-size: var(--fontBiggest);
+  font-weight: var(--fontWeightBold);
+}
+
+.h1-like {
+  font-family: var(--fontTitle);
+  font-size: var(--fontBiggest);
+  font-weight: var(--fontWeightBlack);
+}
+
+.h2-like {
+  font-family: var(--font);
+  font-weight: var(--fontWeightRegular);
+  font-size: 14px;
+  text-transform: uppercase;
+  line-height: var(--lineHeight);
+}

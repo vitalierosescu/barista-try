@@ -1,0 +1,22 @@
+.spaced {
+  padding: var(--spacerBig);
+}
+
+ul, li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.visually-hidden {
+  display: none;
+}
+
+.layout {
+  @media (--only-medium-screen) {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: min-content auto;
+    height: 100vh;
+  }
+}
