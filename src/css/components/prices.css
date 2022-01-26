@@ -46,8 +46,9 @@
 
 .price__button__plus {
   display: inline-block;
-  padding: 7px 14px 11px;
+  padding: 10px 14px;
   background: var(--colorSecondary);
   border-radius: 4px;
   color: var(--colorWhite);
+  font-size: var(--fontSmall);
 }

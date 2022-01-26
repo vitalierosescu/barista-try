@@ -44,7 +44,7 @@
 
 }
 
-.remove {
+.order__remove {
   color: var(--colorGray);
   font-size: var(--fontNormal);
   margin-left: var(--spacerSmall);
